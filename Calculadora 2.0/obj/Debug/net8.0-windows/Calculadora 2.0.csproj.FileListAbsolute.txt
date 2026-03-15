@@ -1,0 +1,16 @@
+C:\Users\Nathan\source\repos\Calculadora 2.0\Calculadora 2.0\bin\Debug\net8.0-windows\Calculadora 2.0.exe
+C:\Users\Nathan\source\repos\Calculadora 2.0\Calculadora 2.0\bin\Debug\net8.0-windows\Calculadora 2.0.deps.json
+C:\Users\Nathan\source\repos\Calculadora 2.0\Calculadora 2.0\bin\Debug\net8.0-windows\Calculadora 2.0.runtimeconfig.json
+C:\Users\Nathan\source\repos\Calculadora 2.0\Calculadora 2.0\bin\Debug\net8.0-windows\Calculadora 2.0.dll
+C:\Users\Nathan\source\repos\Calculadora 2.0\Calculadora 2.0\bin\Debug\net8.0-windows\Calculadora 2.0.pdb
+C:\Users\Nathan\source\repos\Calculadora 2.0\Calculadora 2.0\obj\Debug\net8.0-windows\Calculadora_2._0.Form1.resources
+C:\Users\Nathan\source\repos\Calculadora 2.0\Calculadora 2.0\obj\Debug\net8.0-windows\Calculadora 2.0.csproj.GenerateResource.cache
+C:\Users\Nathan\source\repos\Calculadora 2.0\Calculadora 2.0\obj\Debug\net8.0-windows\Calculadora 2.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nathan\source\repos\Calculadora 2.0\Calculadora 2.0\obj\Debug\net8.0-windows\Calculadora 2.0.AssemblyInfoInputs.cache
+C:\Users\Nathan\source\repos\Calculadora 2.0\Calculadora 2.0\obj\Debug\net8.0-windows\Calculadora 2.0.AssemblyInfo.cs
+C:\Users\Nathan\source\repos\Calculadora 2.0\Calculadora 2.0\obj\Debug\net8.0-windows\Calculadora 2.0.csproj.CoreCompileInputs.cache
+C:\Users\Nathan\source\repos\Calculadora 2.0\Calculadora 2.0\obj\Debug\net8.0-windows\Calculadora 2.0.dll
+C:\Users\Nathan\source\repos\Calculadora 2.0\Calculadora 2.0\obj\Debug\net8.0-windows\refint\Calculadora 2.0.dll
+C:\Users\Nathan\source\repos\Calculadora 2.0\Calculadora 2.0\obj\Debug\net8.0-windows\Calculadora 2.0.pdb
+C:\Users\Nathan\source\repos\Calculadora 2.0\Calculadora 2.0\obj\Debug\net8.0-windows\Calculadora 2.0.genruntimeconfig.cache
+C:\Users\Nathan\source\repos\Calculadora 2.0\Calculadora 2.0\obj\Debug\net8.0-windows\ref\Calculadora 2.0.dll
